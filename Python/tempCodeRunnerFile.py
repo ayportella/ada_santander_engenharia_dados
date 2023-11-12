@@ -1,3 +1,7 @@
-altura = float(input('Informe a sua altura: '))
+media = 10
+presenca = 50
 
-print(altura, type(altura))
+if media >= 7 and presenca >= 70:
+    print('Aprovado!')
+else:
+    print('Reprovado')
