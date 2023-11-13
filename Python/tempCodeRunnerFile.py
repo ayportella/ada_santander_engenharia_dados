@@ -1,2 +1,6 @@
+def soma(num1, num2):
+    return num1 + num2
 
-for elemento in lista:
+resultado = soma(5,7)
+
+print('O resultado da soma é', resultado)
